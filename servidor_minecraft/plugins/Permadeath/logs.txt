@@ -8,3 +8,5 @@
 [16/07/2025] 21:36:52 Se ha activado el plugin.
 [16/07/2025] 22:59:45 No se encontró WorldEdit
 [16/07/2025] 22:59:45 Se ha activado el plugin.
+[16/07/2025] 23:04:17 No se encontró WorldEdit
+[16/07/2025] 23:04:17 Se ha activado el plugin.
